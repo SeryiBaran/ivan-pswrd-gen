@@ -324,9 +324,9 @@
   ('multiprocessing',
    'C:\\python\\lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
-  ('tracemalloc', 'C:\\python\\lib\\tracemalloc.py', 'PYMODULE'),
   ('stringprep', 'C:\\python\\lib\\stringprep.py', 'PYMODULE'),
   ('_py_abc', 'C:\\python\\lib\\_py_abc.py', 'PYMODULE'),
+  ('tracemalloc', 'C:\\python\\lib\\tracemalloc.py', 'PYMODULE'),
   ('random', 'C:\\python\\lib\\random.py', 'PYMODULE'),
   ('statistics', 'C:\\python\\lib\\statistics.py', 'PYMODULE'),
   ('fractions', 'C:\\python\\lib\\fractions.py', 'PYMODULE')])
